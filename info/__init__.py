@@ -12,12 +12,16 @@ db = SQLAlchemy()
 
 
 def creat_app(config_name):
+    app = Flask(__name__)
     # 通过传入不同的配置，初始化对应配置的实例
     config = config_dict.get(config_name)
+
     # 设置日志级别
     log_file(config.LEVEL)
-    app = Flask(__name__)
+
     app.config.from_object(Config)
+    # 创建SQLAlchemy，关联对象
+    db.init_app(app)
     # 初始化redis
     # redis.StrictRedis(host=Config.REDIS_HOST,port=Config.REDIS_PORT)
 
