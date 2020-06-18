@@ -25,6 +25,10 @@ def creat_app(config_name):
     CSRFProtect(app)
     # 设置session保存指定位置
     Session(app)
+
+    # 注册蓝图时，导入和注册写在一起
+    from info.modules.index import index_blu
+    app.register_blueprint(index_blu)
     return app
 #记录日志信息方法
 def log_file(level):

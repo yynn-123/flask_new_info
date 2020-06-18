@@ -12,10 +12,6 @@ Migrate(app, db)
 manager.add_command('db', MigrateCommand)
 
 
-@app.route('/')
-def index():
-    session['name'] = 'Albert'
-    return 'index'
 
 
 if __name__ == '__main__':
