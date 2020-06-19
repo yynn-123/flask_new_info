@@ -2,6 +2,7 @@
 import logging
 from logging.handlers import RotatingFileHandler
 
+import redis
 from flask import Flask, session
 from flask_session import Session
 from flask_sqlalchemy import SQLAlchemy
@@ -9,6 +10,8 @@ from flask_wtf import CSRFProtect
 from config import Config,config_dict
 
 db = SQLAlchemy()
+#定义全局变量
+redis_store = None
 
 
 def creat_app(config_name):
@@ -23,7 +26,8 @@ def creat_app(config_name):
     # 创建SQLAlchemy，关联对象
     db.init_app(app)
     # 初始化redis
-    # redis.StrictRedis(host=Config.REDIS_HOST,port=Config.REDIS_PORT)
+    global redis_store
+    redis_store = redis.StrictRedis(host=Config.REDIS_HOST,port=Config.REDIS_PORT)
 
     # 开启csrf保护，用于服务器验证
     CSRFProtect(app)

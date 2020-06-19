@@ -1,4 +1,6 @@
 from flask import request, jsonify, make_response, current_app
+
+from info import redis_store, constants
 from info.utils.captcha.captcha import captcha
 from info.utils.response_code import RET
 from . import passport_blu
