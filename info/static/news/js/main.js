@@ -144,7 +144,29 @@ $(function(){
         }
 
         // 发起注册请求
+        //拼接请求参数
+        var params = {
+            "mobile":mobile,
+            "sms_code":smscode,
+            "password":password
+        }
 
+$.ajax({
+            url:'/passport/register',
+            type:'post',
+            data:JSON.stringify(params),
+            contentType:'application/json',
+            headers:{'X-CSRFToken':getCookie('csrf_token')},
+            success: function (resp) {
+                //判断是否注册成功
+                if(resp.errno == '0'){
+                    //重新加载当前页面
+                    window.location.reload()
+                }else{
+                    alert(resp.errmsg);
+                }
+            }
+        })
     })
 })
 
@@ -188,6 +210,7 @@ function sendSMSCode() {
     }
 
     // TODO 发送短信验证码 ajax请求
+
 }
 
 // 调用该函数模拟点击左侧按钮

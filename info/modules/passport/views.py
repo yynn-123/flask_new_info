@@ -1,12 +1,12 @@
 import random
 import re
 from flask import request, jsonify, make_response, current_app, json
-from info import redis_store, constants
+from info import redis_store, constants, db
 from info.libs.yuntongxun.sms import CCP
 from info.utils.captcha.captcha import captcha
 from info.utils.response_code import RET
 from . import passport_blu
-
+from info.models import User
 
 # 功能描述: 发送短信
 # 请求路径: /passport/sms_code
@@ -137,3 +137,69 @@ def get_image_code():
     response = make_response(image_data)
     response.headers["Content-Type"] = 'image/jpg'
     return response
+
+# 注册功能的实现
+@passport_blu.route('register',methods = ['POST'])
+def register():
+    """
+    1、获取参数
+    2、参数校验
+    3、通过手机号，取出短信验证码
+    4、判断短信验证码是否过期
+    5、删除redis中的短信验证码
+    6、判断短信验证码的正确性
+    7、创建用户对象
+    8、设置用户属性
+    9、保存到数据库
+    10、返回响应
+    :return:
+    """
+    # json_data = request.data
+    # dict_data = json.loads(json_data)
+    # 下面这句话等于上面两句话
+    dict_data = request.json
+    mobile = dict_data.get('mobile')
+    sms_code = dict_data.get('sms_code')
+    password = dict_data('password')
+    # 2、校验参数
+    if not all([mobile,sms_code,password]):
+        return jsonify(errno=RET.PARAMERR, errmsg='参数不全')
+    # 3、通过手机号取出验证码
+    try:
+        redis_sms_code = redis_store.get('sms_code%s'%mobile)
+    except Exception as e:
+        current_app.logger.error(e)
+        return jsonify(errno=RET.DBERR, errmsg='获取短信验证码异常')
+    # 4、判断短信验证码是否过期
+    if not redis_sms_code:
+        return jsonify(errno=RET.NODATA, errmsg='短信验证码过期')
+    # 5、删除redis中的短信验证码
+    try:
+        redis_store.delete('sms_code%s'%mobile)
+    except Exception as e:
+        current_app.logger.error(e)
+        return jsonify(errno=RET.DBERR, errmsg='删除异常')
+    # 6
+    if redis_sms_code != sms_code:
+        return jsonify(errno=RET.DATAERR, errmsg='短信验证码错误')
+    # 7、创建用户对象
+    user = User()
+    # 8、设置用户属性
+    user.nick_name = mobile
+    user.password = password
+    user.mobile = mobile
+    # 9、保存到数据库
+    try:
+        db.session.add(user)
+        db.session.commit()
+    except Exception as e:
+        current_app.logger.error(e)
+        db.session.rollback()
+        return jsonify(errno=RET.DBERR, errmsg='用户注册失败')
+    # 10、返回响应
+    return jsonify(errno=RET.OK, errmsg='注册成功')
+
+
+
+
+
