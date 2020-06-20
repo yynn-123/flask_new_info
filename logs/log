@@ -280,3 +280,908 @@ INFO _internal.py:113  * Debugger PIN: 168-346-213
 INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\modules\\passport\\views.py', reloading
 INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:19:52] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:19:52] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:20:23] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:20:23] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:20:23] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:21:11] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:21:11] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:21:43] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:21:43] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:21:43] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:22:09] "[37mGET /passport/image_code?cur_id=d3662059-68ce-422a-b085-2cc6300d6929&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:22:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:22:09] "[37mGET /static/news/images/shutoff.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:22:09] "[37mGET /static/news/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:22:09] "[37mGET /static/news/css/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:22:10] "[37mGET /static/news/js/jquery-1.12.4.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:22:10] "[37mGET /static/news/js/main.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:22:10] "[37mGET /static/news/js/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:22:10] "[37mGET /static/news/images/logo.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:22:11] "[37mGET /static/news/images/hit_icon.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:22:11] "[37mGET /static/news/images/clock.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:22:11] "[37mGET /static/news/images/person.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:22:11] "[37mGET /static/news/images/news_pic.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:22:11] "[37mGET /static/news/images/person01.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:22:11] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:22:11] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:23:26] "[37mGET /passport/image_code?cur_id=553426a6-7ec2-4983-b253-6d6f943a9677&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:23:26] "[37mGET /static/news/images/shutoff.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:23:33] "[37mGET /passport/image_code?cur_id=96ad51d9-dea1-4444-a18c-75d6504e2ef6&pre_id=553426a6-7ec2-4983-b253-6d6f943a9677 HTTP/1.1[0m" 200 -
+INFO csrf.py:258 The CSRF token is missing.
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:23:38] "[31m[1mPOST /passport/sms_code HTTP/1.1[0m" 400 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:30:55] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:30:58] "[37mGET /passport/image_code?cur_id=9687e943-41a6-468b-9e41-799cc42f95b2&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:30:58] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO csrf.py:258 The CSRF token is missing.
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:31:30] "[31m[1mPOST /passport/sms_code HTTP/1.1[0m" 400 -
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:32:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:32:06] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:32:08] "[37mGET /passport/image_code?cur_id=4769353b-c8f4-4fd6-a1ee-7e88de05de39&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:32:18] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:32:21] "[37mGET /passport/image_code?cur_id=54f5825c-e640-4888-bb20-94bd72abfc1e&pre_id=4769353b-c8f4-4fd6-a1ee-7e88de05de39 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:32:28] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:32:29] "[37mGET /passport/image_code?cur_id=da4e19e2-d551-4db3-8ec3-066518472c41&pre_id=54f5825c-e640-4888-bb20-94bd72abfc1e HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:34:42] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:34:43] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:34:44] "[37mGET /passport/image_code?cur_id=9f3ea4b3-96ac-49c2-88b0-e9e98a35be24&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:34:50] "[37mGET /passport/image_code?cur_id=bf95cc1b-a21a-4830-8482-3200a9a7c757&pre_id=9f3ea4b3-96ac-49c2-88b0-e9e98a35be24 HTTP/1.1[0m" 200 -
+INFO csrf.py:258 The CSRF token is missing.
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:34:57] "[31m[1mPOST /passport/sms_code HTTP/1.1[0m" 400 -
+INFO csrf.py:258 The CSRF token is missing.
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:35:06] "[31m[1mPOST /passport/register HTTP/1.1[0m" 400 -
+INFO csrf.py:258 The CSRF token is missing.
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:35:08] "[31m[1mPOST /passport/register HTTP/1.1[0m" 400 -
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:35:34] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:35:34] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:35:34] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:35:36] "[37mGET /passport/image_code?cur_id=1332ab88-398a-4c8b-8cd6-3af41c2b107b&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:35:45] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:35:47] "[37mGET /passport/image_code?cur_id=9036f7d7-9533-4262-bfe5-e267c6cbcdf0&pre_id=1332ab88-398a-4c8b-8cd6-3af41c2b107b HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:35:55] "[35m[1mPOST /passport/register HTTP/1.1[0m" 500 -
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\modules\\passport\\views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:36:54] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:36:54] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:36:54] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:36:55] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:36:58] "[37mGET /passport/image_code?cur_id=f057555a-0e35-4364-b84c-01108a843961&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:36:58] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:37:03] "[37mGET /passport/image_code?cur_id=ea696f53-dd35-4907-8209-f22e8702c7f4&pre_id=f057555a-0e35-4364-b84c-01108a843961 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:37:13] "[37mPOST /passport/register HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:37:15] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:37:17] "[37mGET /passport/image_code?cur_id=9650fb56-9a32-4ced-ae20-49ee2b433c2c&pre_id=ea696f53-dd35-4907-8209-f22e8702c7f4 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:37:20] "[37mGET /passport/image_code?cur_id=33a3d4c5-2cc4-4f53-8a00-5bc79fa496b0&pre_id=9650fb56-9a32-4ced-ae20-49ee2b433c2c HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:37:22] "[37mGET /passport/image_code?cur_id=c08d81d7-160a-4f67-9051-96ca4564cca1&pre_id=33a3d4c5-2cc4-4f53-8a00-5bc79fa496b0 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:37:23] "[37mGET /passport/image_code?cur_id=40ea14c1-8166-4a22-9c73-4eccdb6f458e&pre_id=c08d81d7-160a-4f67-9051-96ca4564cca1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:37:24] "[37mGET /passport/image_code?cur_id=eaa37e6c-485f-4aae-bf8f-ebf1f55c53f5&pre_id=40ea14c1-8166-4a22-9c73-4eccdb6f458e HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:37:25] "[37mGET /passport/image_code?cur_id=07707cdb-b561-4397-9452-9be72c3964fc&pre_id=eaa37e6c-485f-4aae-bf8f-ebf1f55c53f5 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:37:31] "[37mPOST /passport/register HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:38:57] "[37mPOST /passport/register HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:39:02] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:39:03] "[37mGET /passport/image_code?cur_id=356ef4c8-e837-4c06-a522-a9f3decd8e6b&pre_id=07707cdb-b561-4397-9452-9be72c3964fc HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:39:09] "[37mGET /passport/image_code?cur_id=72424b90-ff7a-4a6a-844d-0f9c48cdb791&pre_id=356ef4c8-e837-4c06-a522-a9f3decd8e6b HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:39:26] "[37mPOST /passport/register HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:39:29] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:39:31] "[37mGET /passport/image_code?cur_id=45f2c52a-b7dd-4a30-b217-a36b8e76f386&pre_id=72424b90-ff7a-4a6a-844d-0f9c48cdb791 HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:43:15] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:43:16] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:43:28] "[37mGET /passport/image_code?cur_id=313c593d-3e6d-446f-bcbe-0e8b4e88b53e&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:43:34] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:43:34] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:43:35] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:43:54] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:43:54] "[37mGET /static/news/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:43:54] "[37mGET /static/news/css/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:43:54] "[37mGET /static/news/js/jquery-1.12.4.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:43:54] "[37mGET /static/news/js/main.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:43:54] "[37mGET /static/news/js/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:43:55] "[37mGET /static/news/images/logo.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:43:55] "[37mGET /static/news/images/person01.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:43:55] "[37mGET /static/news/images/news_pic.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:43:55] "[37mGET /static/news/images/person.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:43:55] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:43:55] "[37mGET /static/news/images/clock.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:43:55] "[37mGET /static/news/images/hit_icon.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:43:55] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:43:57] "[37mGET /passport/image_code?cur_id=8adf15cd-afe7-4da5-a578-c9fbd1000b93&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:43:57] "[37mGET /static/news/images/shutoff.png HTTP/1.1[0m" 200 -
+INFO csrf.py:258 The CSRF token is missing.
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:44:10] "[31m[1mPOST /passport/sms_code HTTP/1.1[0m" 400 -
+INFO csrf.py:258 The CSRF token is missing.
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:44:37] "[31m[1mPOST /passport/register HTTP/1.1[0m" 400 -
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:45:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:45:10] "[37mGET /passport/image_code?cur_id=246160b8-a92e-4951-ae6a-e23709b3986d&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:45:10] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:45:10] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:45:16] "[37mGET /passport/image_code?cur_id=33f342ff-7a59-4657-a215-e719f658d264&pre_id=246160b8-a92e-4951-ae6a-e23709b3986d HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:45:17] "[37mGET /passport/image_code?cur_id=045f0ccb-774f-44a3-acee-ff9a7d1e1d0b&pre_id=33f342ff-7a59-4657-a215-e719f658d264 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:45:22] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:45:23] "[37mGET /passport/image_code?cur_id=822d9b7d-8c51-4801-95f3-082dbbd387c7&pre_id=045f0ccb-774f-44a3-acee-ff9a7d1e1d0b HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:45:26] "[37mGET /passport/image_code?cur_id=55badaff-1a6a-478c-a23b-d04b1a13bfe1&pre_id=822d9b7d-8c51-4801-95f3-082dbbd387c7 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:45:29] "[37mGET /passport/image_code?cur_id=0f7fd722-d857-4b8d-8107-82c44decdae1&pre_id=55badaff-1a6a-478c-a23b-d04b1a13bfe1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:45:30] "[37mGET /passport/image_code?cur_id=a0200399-bb8c-4bab-a40d-7d48241d9650&pre_id=0f7fd722-d857-4b8d-8107-82c44decdae1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:45:31] "[37mGET /passport/image_code?cur_id=b4c7947c-6566-4d21-8720-7b0643d13913&pre_id=a0200399-bb8c-4bab-a40d-7d48241d9650 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:45:32] "[37mGET /passport/image_code?cur_id=8e0d24d9-262d-4435-8f41-873e1c64679b&pre_id=b4c7947c-6566-4d21-8720-7b0643d13913 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:45:32] "[37mGET /passport/image_code?cur_id=62626677-1f3e-4a3f-bc15-570f68d1aabb&pre_id=8e0d24d9-262d-4435-8f41-873e1c64679b HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:45:44] "[37mPOST /passport/register HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\modules\\passport\\views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:48:50] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:48:51] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:48:52] "[37mGET /passport/image_code?cur_id=c04462ed-3ed6-4559-bf74-2f1dd5a7ca1e&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:48:58] "[37mGET /passport/image_code?cur_id=cae7f26a-c239-4dab-9f17-3b7e160575b2&pre_id=c04462ed-3ed6-4559-bf74-2f1dd5a7ca1e HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:49:04] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:49:05] "[37mGET /passport/image_code?cur_id=25deb0e8-1050-4836-a147-bc0e23754760&pre_id=cae7f26a-c239-4dab-9f17-3b7e160575b2 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:49:09] "[37mGET /passport/image_code?cur_id=0a30727c-6b88-4e76-bdbc-bc27258f6083&pre_id=25deb0e8-1050-4836-a147-bc0e23754760 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:49:16] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:49:17] "[37mGET /passport/image_code?cur_id=c3edace4-c744-4c01-a8bf-7f6083bb6e44&pre_id=0a30727c-6b88-4e76-bdbc-bc27258f6083 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:49:19] "[37mGET /passport/image_code?cur_id=24e9f10c-2af4-4184-a2c0-5bc9796572e1&pre_id=c3edace4-c744-4c01-a8bf-7f6083bb6e44 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:49:26] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:49:31] "[37mGET /passport/image_code?cur_id=4387f81a-64ac-40f7-8d3e-8e1283e3b298&pre_id=24e9f10c-2af4-4184-a2c0-5bc9796572e1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:49:32] "[37mGET /passport/image_code?cur_id=bd10e5c1-7592-43fd-9eb5-c944d250528a&pre_id=4387f81a-64ac-40f7-8d3e-8e1283e3b298 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:49:38] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:49:40] "[37mGET /passport/image_code?cur_id=1af54b77-a4d4-4eb5-883d-009530c026bf&pre_id=bd10e5c1-7592-43fd-9eb5-c944d250528a HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:50:09] "[37mGET /passport/image_code?cur_id=a77e4fa1-7874-49ff-923a-c5a5dd91b301&pre_id=1af54b77-a4d4-4eb5-883d-009530c026bf HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:50:27] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:50:30] "[37mGET /passport/image_code?cur_id=f54ab19c-7ed8-4f23-aa59-b170e416f6eb&pre_id=a77e4fa1-7874-49ff-923a-c5a5dd91b301 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:51:24] "[37mGET /passport/image_code?cur_id=1aced9a4-a8cd-4194-bf60-8e26c96a2d6b&pre_id=f54ab19c-7ed8-4f23-aa59-b170e416f6eb HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:51:25] "[37mGET /passport/image_code?cur_id=db79be4d-19d4-41ee-9054-cd8b2078e65a&pre_id=1aced9a4-a8cd-4194-bf60-8e26c96a2d6b HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:51:38] "[37mPOST /passport/register HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:51:42] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:51:44] "[37mGET /passport/image_code?cur_id=84006382-da3e-45e2-9b77-4af51084d40b&pre_id=db79be4d-19d4-41ee-9054-cd8b2078e65a HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:51:46] "[37mGET /passport/image_code?cur_id=1586d56e-2e40-47e6-b98d-ab99e5804c98&pre_id=84006382-da3e-45e2-9b77-4af51084d40b HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:51:46] "[37mGET /passport/image_code?cur_id=cf6ab592-8109-449e-9829-4e1b66539685&pre_id=1586d56e-2e40-47e6-b98d-ab99e5804c98 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:51:47] "[37mGET /passport/image_code?cur_id=8a400b1d-8b82-4fad-8054-2d548a420247&pre_id=cf6ab592-8109-449e-9829-4e1b66539685 HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:52:07] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:52:07] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:52:27] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:52:27] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:52:27] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:52:55] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:52:55] "[37mGET /static/news/js/jquery-1.12.4.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:52:55] "[37mGET /static/news/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:52:55] "[37mGET /static/news/js/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:52:55] "[37mGET /static/news/js/main.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:52:55] "[37mGET /static/news/js/jquery-1.12.4.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:52:55] "[37mGET /static/news/css/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:52:55] "[37mGET /static/news/images/logo.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:52:55] "[37mGET /static/news/images/person01.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:52:55] "[37mGET /static/news/images/news_pic.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:52:55] "[37mGET /static/news/images/person.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:52:55] "[37mGET /static/news/images/clock.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:52:55] "[37mGET /static/news/images/hit_icon.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:52:55] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:52:55] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:53:03] "[37mGET /passport/image_code?cur_id=9677648f-a274-4607-8571-75c25dcd8d66&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:53:03] "[37mGET /static/news/images/shutoff.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:53:14] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:53:17] "[37mGET /passport/image_code?cur_id=424edccb-8a72-4803-8499-a53e1c22a47e&pre_id=9677648f-a274-4607-8571-75c25dcd8d66 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:53:23] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:53:24] "[37mGET /passport/image_code?cur_id=44bb79a7-c76f-4750-be72-795cc59b0282&pre_id=424edccb-8a72-4803-8499-a53e1c22a47e HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:55:41] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:55:43] "[37mGET /passport/image_code?cur_id=2e13b618-bc41-49a5-9c0b-ac00c3a1cff5&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:55:43] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:55:51] "[37mGET /passport/image_code?cur_id=756c523d-81f3-4737-8314-a4c928ca4939&pre_id=2e13b618-bc41-49a5-9c0b-ac00c3a1cff5 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:55:53] "[37mGET /passport/image_code?cur_id=3cff6123-5377-4fd0-a499-ebebc4f1449c&pre_id=756c523d-81f3-4737-8314-a4c928ca4939 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:55:54] "[37mGET /passport/image_code?cur_id=f1a90911-61e6-40b3-b749-3ba0556f1c29&pre_id=3cff6123-5377-4fd0-a499-ebebc4f1449c HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:55:55] "[37mGET /passport/image_code?cur_id=89db3f8b-31e9-4058-990a-62506522fa6e&pre_id=f1a90911-61e6-40b3-b749-3ba0556f1c29 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:56:00] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:56:01] "[37mGET /passport/image_code?cur_id=6d8bfedd-6bf4-49e1-b72c-d949fc4cc89c&pre_id=89db3f8b-31e9-4058-990a-62506522fa6e HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:57:38] "[37mGET /passport/image_code?cur_id=ce0db4ff-d91c-4d22-a73d-15c43c5a04be&pre_id=939bbca7-afd9-4666-a772-da39aa7d2ff8 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:57:39] "[37mGET /passport/image_code?cur_id=0cb62f42-1eb6-4127-a7bd-a2365bbbc01e&pre_id=ce0db4ff-d91c-4d22-a73d-15c43c5a04be HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:57:39] "[37mGET /passport/image_code?cur_id=b098d87b-b93b-4977-924a-2a886d3ad637&pre_id=0cb62f42-1eb6-4127-a7bd-a2365bbbc01e HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:57:40] "[37mGET /passport/image_code?cur_id=0e76cb7c-a6a7-42c7-966a-8a1c35f9aced&pre_id=b098d87b-b93b-4977-924a-2a886d3ad637 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:58:04] "[37mGET /passport/image_code?cur_id=d859e62c-3efd-4e8c-b4aa-68e50bcc6f64&pre_id=0e76cb7c-a6a7-42c7-966a-8a1c35f9aced HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:58:09] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:58:11] "[37mGET /passport/image_code?cur_id=c57b408e-4ff5-41e9-bbd9-ff9120add517&pre_id=d859e62c-3efd-4e8c-b4aa-68e50bcc6f64 HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:59:13] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:59:15] "[37mGET /passport/image_code?cur_id=764f6a91-af6e-4219-b89a-0a825fde610d&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:59:15] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:59:25] "[37mGET /passport/image_code?cur_id=9b0706e1-af7c-4c10-8fdd-fb14b0d65b19&pre_id=764f6a91-af6e-4219-b89a-0a825fde610d HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:59:30] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 18:59:32] "[37mGET /passport/image_code?cur_id=18fc1017-fa39-4a05-b59a-33a60a93650e&pre_id=9b0706e1-af7c-4c10-8fdd-fb14b0d65b19 HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:01:42] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:01:45] "[37mGET /passport/image_code?cur_id=002de19f-fc94-46f4-bc8b-4f9d5526423a&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:01:45] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO csrf.py:258 The CSRF token is missing.
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:01:56] "[31m[1mPOST /passport/sms_code HTTP/1.1[0m" 400 -
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:02:33] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:02:35] "[37mGET /passport/image_code?cur_id=94415126-0c1d-4428-a0d7-30ee5e54874d&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:02:35] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:02:44] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:02:49] "[37mGET /passport/image_code?cur_id=37e7ddae-7cc8-44b4-9b80-f4c12d3f21d8&pre_id=94415126-0c1d-4428-a0d7-30ee5e54874d HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\modules\\passport\\views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:04:35] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:04:36] "[37mGET /passport/image_code?cur_id=01450b42-0e3d-4d21-acbb-d98f8bbb91db&pre_id=37e7ddae-7cc8-44b4-9b80-f4c12d3f21d8 HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:08:08] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:08:18] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:08:28] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:08:28] "[37mGET /static/news/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:08:28] "[37mGET /static/news/css/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:08:28] "[37mGET /static/news/js/jquery-1.12.4.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:08:28] "[37mGET /static/news/js/main.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:08:28] "[37mGET /static/news/js/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:08:28] "[37mGET /static/news/images/logo.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:08:28] "[37mGET /static/news/images/person01.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:08:28] "[37mGET /static/news/images/news_pic.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:08:28] "[37mGET /static/news/images/person.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:08:28] "[37mGET /static/news/images/clock.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:08:28] "[37mGET /static/news/images/hit_icon.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:08:28] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:08:44] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:08:44] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:08:44] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:08:49] "[37mGET /passport/image_code?cur_id=411f97b4-f8e3-4bba-b76b-e97755ed58c5&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:08:49] "[37mGET /static/news/images/shutoff.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:09:00] "[37mGET /passport/image_code?cur_id=e60cc0f2-a201-4982-bb70-5b8513558ada&pre_id=411f97b4-f8e3-4bba-b76b-e97755ed58c5 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:09:06] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:09:08] "[37mGET /passport/image_code?cur_id=2e3b3054-82e6-494c-8206-63e087234c23&pre_id=e60cc0f2-a201-4982-bb70-5b8513558ada HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:15:15] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:15:15] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:15:19] "[37mGET /passport/image_code?cur_id=47fa5c92-9a14-4ba5-8fbb-b4030ec80fcf&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:15:47] "[37mPOST /passport/register HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:15:51] "[37mGET /passport/image_code?cur_id=dbd89165-ebdb-4101-b859-64275fad0a18&pre_id=47fa5c92-9a14-4ba5-8fbb-b4030ec80fcf HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:18:29] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:18:29] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:18:31] "[37mGET /passport/image_code?cur_id=2c213d1f-c9a1-4a0e-99cb-bf44649a5300&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:18:41] "[37mGET /passport/image_code?cur_id=f382e69d-e711-4559-a656-cd11843dbc6f&pre_id=2c213d1f-c9a1-4a0e-99cb-bf44649a5300 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:18:43] "[37mGET /passport/image_code?cur_id=cb11083f-5ea5-4580-8cc1-3c99a17f5a92&pre_id=f382e69d-e711-4559-a656-cd11843dbc6f HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:18:44] "[37mGET /passport/image_code?cur_id=fdaee229-5876-486a-91d8-5e22f6bf9e4d&pre_id=cb11083f-5ea5-4580-8cc1-3c99a17f5a92 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:18:45] "[37mGET /passport/image_code?cur_id=bfe089d3-a123-4b0e-a163-6fa56f66b74c&pre_id=fdaee229-5876-486a-91d8-5e22f6bf9e4d HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:18:50] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:18:52] "[37mGET /passport/image_code?cur_id=02be54b5-cec0-4c62-82c5-7d587eee563a&pre_id=bfe089d3-a123-4b0e-a163-6fa56f66b74c HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:21:31] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:21:33] "[37mGET /passport/image_code?cur_id=fad85347-a705-444d-9999-b72119e8f1bf&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:21:33] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:21:42] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:21:47] "[37mGET /passport/image_code?cur_id=4678d617-0657-4183-ae9a-d852140eeb67&pre_id=fad85347-a705-444d-9999-b72119e8f1bf HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\modules\\passport\\views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:22:17] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:22:19] "[37mGET /passport/image_code?cur_id=7c26fd23-50c8-4fad-8837-a1b3e1cefd73&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:22:19] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:22:25] "[37mGET /passport/image_code?cur_id=e7400de5-3cd0-4f55-a7a5-00fa9ee360c5&pre_id=7c26fd23-50c8-4fad-8837-a1b3e1cefd73 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:22:26] "[37mGET /passport/image_code?cur_id=249464c8-44ff-428b-8d35-1f0b4df50982&pre_id=e7400de5-3cd0-4f55-a7a5-00fa9ee360c5 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:22:27] "[37mGET /passport/image_code?cur_id=af5b3c70-c7e2-464e-86a2-519795363556&pre_id=249464c8-44ff-428b-8d35-1f0b4df50982 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:22:32] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:22:33] "[37mGET /passport/image_code?cur_id=defcbd58-a069-45d3-bf6c-cbfa09e1bde9&pre_id=af5b3c70-c7e2-464e-86a2-519795363556 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:22:41] "[37mGET /passport/image_code?cur_id=0c668c8e-df15-4169-b251-7754f95a396f&pre_id=defcbd58-a069-45d3-bf6c-cbfa09e1bde9 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:22:44] "[37mGET /passport/image_code?cur_id=b81c9588-48ba-44a4-8f2d-b413a942d574&pre_id=0c668c8e-df15-4169-b251-7754f95a396f HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:22:45] "[37mGET /passport/image_code?cur_id=8f0efa98-227f-4e3c-b7b1-9942c6ae0847&pre_id=b81c9588-48ba-44a4-8f2d-b413a942d574 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:22:49] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:22:50] "[37mGET /passport/image_code?cur_id=e4b8608c-8fce-41ed-ba44-cda52c41f89b&pre_id=8f0efa98-227f-4e3c-b7b1-9942c6ae0847 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:23:00] "[37mGET /passport/image_code?cur_id=028fb852-0c90-4748-815d-9719a21ee097&pre_id=e4b8608c-8fce-41ed-ba44-cda52c41f89b HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:23:01] "[37mGET /passport/image_code?cur_id=38afe934-18bb-4505-babe-2776709f3b7c&pre_id=028fb852-0c90-4748-815d-9719a21ee097 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:23:11] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:23:12] "[37mGET /passport/image_code?cur_id=be268512-c24d-48a7-bda4-8e73bacf81fd&pre_id=38afe934-18bb-4505-babe-2776709f3b7c HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:25:16] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:25:17] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:25:19] "[37mGET /passport/image_code?cur_id=a0eb0844-e51a-4738-8c4c-dcaa64f00f49&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:25:57] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:25:57] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:25:59] "[37mGET /passport/image_code?cur_id=b5805b2f-638f-4ec1-b843-15dbe8836a97&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:26:04] "[37mGET /passport/image_code?cur_id=eda2d3ca-2d4f-4060-87ea-d128a35945b1&pre_id=b5805b2f-638f-4ec1-b843-15dbe8836a97 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:26:05] "[37mGET /passport/image_code?cur_id=edc07657-f7b6-4323-9396-44245e20ad90&pre_id=eda2d3ca-2d4f-4060-87ea-d128a35945b1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:26:11] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:26:13] "[37mGET /passport/image_code?cur_id=9df0831d-a76e-41e3-a81a-8b17ff87a30f&pre_id=edc07657-f7b6-4323-9396-44245e20ad90 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:26:18] "[37mGET /passport/image_code?cur_id=db194fff-b962-4f30-a4be-eeb0c6b96d77&pre_id=9df0831d-a76e-41e3-a81a-8b17ff87a30f HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:26:28] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:26:29] "[37mGET /passport/image_code?cur_id=083cd681-21d8-41f7-8fef-c58063240788&pre_id=db194fff-b962-4f30-a4be-eeb0c6b96d77 HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:29:12] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:29:14] "[37mGET /passport/image_code?cur_id=42fe370e-3d47-48fa-bd6a-c159fee40bc3&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:29:14] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:29:20] "[37mGET /passport/image_code?cur_id=6cf97783-cc75-4f82-919a-7a1ba4cc5457&pre_id=42fe370e-3d47-48fa-bd6a-c159fee40bc3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:29:22] "[37mGET /passport/image_code?cur_id=179450e3-7ae4-4fbf-98cf-ed6a774d4bdd&pre_id=6cf97783-cc75-4f82-919a-7a1ba4cc5457 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:29:28] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:29:30] "[37mGET /passport/image_code?cur_id=265537c7-4443-4947-93b0-0e49fc17f194&pre_id=179450e3-7ae4-4fbf-98cf-ed6a774d4bdd HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:29:46] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:29:46] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:29:46] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:30:23] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:30:23] "[37mGET /static/news/css/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:30:23] "[37mGET /static/news/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:30:23] "[37mGET /static/news/js/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:30:23] "[37mGET /static/news/js/main.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:30:23] "[37mGET /static/news/js/jquery-1.12.4.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:30:24] "[37mGET /static/news/images/logo.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:30:24] "[37mGET /static/news/images/person01.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:30:24] "[37mGET /static/news/images/news_pic.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:30:24] "[37mGET /static/news/images/person.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:30:24] "[37mGET /static/news/images/clock.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:30:24] "[37mGET /static/news/images/hit_icon.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:30:24] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:30:25] "[37mGET /passport/image_code?cur_id=f11a5e37-1366-4e5a-ab2f-c17c02e0f5df&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:30:25] "[37mGET /static/news/images/shutoff.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:30:41] "[37mGET /passport/image_code?cur_id=aa23b480-d58c-4fce-b312-faa6fda0b20d&pre_id=f11a5e37-1366-4e5a-ab2f-c17c02e0f5df HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:30:42] "[37mGET /passport/image_code?cur_id=e664ab53-b87d-4c4c-9cd4-ff9e29dcce60&pre_id=aa23b480-d58c-4fce-b312-faa6fda0b20d HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:32:17] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:32:17] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:32:19] "[37mGET /passport/image_code?cur_id=d9608168-8c81-446b-b31f-3cafa8013c9e&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:32:36] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:32:36] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:32:36] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:32:54] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:32:54] "[37mGET /static/news/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:32:54] "[37mGET /static/news/js/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:32:54] "[37mGET /static/news/js/main.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:32:54] "[37mGET /static/news/js/jquery-1.12.4.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:32:54] "[37mGET /static/news/css/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:32:54] "[37mGET /static/news/images/logo.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:32:54] "[37mGET /static/news/images/person01.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:32:54] "[37mGET /static/news/images/news_pic.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:32:54] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:32:54] "[37mGET /static/news/images/person.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:32:54] "[37mGET /static/news/images/clock.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:32:54] "[37mGET /static/news/images/hit_icon.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:32:57] "[37mGET /passport/image_code?cur_id=35a2a0b2-a4f3-4a4b-82e2-dec51e1fc520&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:32:57] "[37mGET /static/news/images/shutoff.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:33:03] "[37mGET /passport/image_code?cur_id=a1020e57-cba5-47dc-89e5-33cae437fc0f&pre_id=35a2a0b2-a4f3-4a4b-82e2-dec51e1fc520 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:33:13] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:33:16] "[37mGET /passport/image_code?cur_id=b228f5d9-4445-47af-9c39-a2d324cab047&pre_id=a1020e57-cba5-47dc-89e5-33cae437fc0f HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:33:56] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:33:56] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:33:56] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:34:06] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:34:06] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:34:06] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:34:16] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:34:16] "[37mGET /static/news/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:34:16] "[37mGET /static/news/js/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:34:16] "[37mGET /static/news/js/main.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:34:16] "[37mGET /static/news/js/jquery-1.12.4.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:34:16] "[37mGET /static/news/css/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:34:16] "[37mGET /static/news/images/logo.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:34:16] "[37mGET /static/news/images/person01.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:34:16] "[37mGET /static/news/images/news_pic.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:34:16] "[37mGET /static/news/images/hit_icon.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:34:16] "[37mGET /static/news/images/person.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:34:16] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:34:16] "[37mGET /static/news/images/clock.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:34:17] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\modules\\passport\\views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:35:13] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:35:13] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:35:16] "[37mGET /passport/image_code?cur_id=ba2e5b3f-ed0f-4ef0-ade1-3a13c1310b5c&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [19/Jun/2020 19:35:16] "[37mGET /static/news/images/shutoff.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:29:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:29:06] "[36mGET /static/news/css/main.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:29:06] "[36mGET /static/news/css/reset.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:29:06] "[36mGET /static/news/js/index.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:29:06] "[36mGET /static/news/js/main.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:29:06] "[36mGET /static/news/js/jquery-1.12.4.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:29:06] "[36mGET /static/news/images/logo.png HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:29:06] "[36mGET /static/news/images/person01.png HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:29:06] "[36mGET /static/news/images/news_pic.jpg HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:29:06] "[36mGET /static/news/images/person.png HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:29:06] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:29:06] "[36mGET /static/news/images/clock.png HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:29:06] "[36mGET /static/news/images/hit_icon.png HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:29:09] "[37mGET /passport/image_code?cur_id=0440f095-6739-48fc-93ae-ec12ee601125&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:29:09] "[36mGET /static/news/images/shutoff.png HTTP/1.1[0m" 304 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:31:46] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:31:47] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:32:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:32:05] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:32:05] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:32:35] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:32:35] "[37mGET /static/news/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:32:35] "[37mGET /static/news/css/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:32:35] "[37mGET /static/news/js/jquery-1.12.4.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:32:35] "[37mGET /static/news/js/main.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:32:35] "[37mGET /static/news/js/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:32:35] "[37mGET /static/news/images/logo.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:32:35] "[37mGET /static/news/images/person01.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:32:35] "[37mGET /static/news/images/news_pic.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:32:35] "[37mGET /static/news/images/hit_icon.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:32:35] "[37mGET /static/news/images/person.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:32:35] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:32:35] "[37mGET /static/news/images/clock.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:32:35] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:33:12] "[37mGET /passport/image_code?cur_id=09f7ba7a-23fd-401f-b3b8-6f883d1c3284&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:33:12] "[37mGET /static/news/images/shutoff.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:33:21] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:33:29] "[37mGET /passport/image_code?cur_id=17414cb3-3305-496a-a5bd-464cc4d9f2a6&pre_id=09f7ba7a-23fd-401f-b3b8-6f883d1c3284 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:33:46] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:33:48] "[37mGET /passport/image_code?cur_id=2ed09099-b9e8-4fae-a96b-dc6aefd6d555&pre_id=17414cb3-3305-496a-a5bd-464cc4d9f2a6 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:35:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:35:05] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:35:05] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:35:35] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:35:35] "[37mGET /static/news/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:35:35] "[37mGET /static/news/js/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:35:35] "[37mGET /static/news/js/main.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:35:35] "[37mGET /static/news/js/jquery-1.12.4.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:35:35] "[37mGET /static/news/css/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:35:35] "[37mGET /static/news/images/logo.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:35:35] "[37mGET /static/news/images/hit_icon.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:35:35] "[37mGET /static/news/images/clock.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:35:35] "[37mGET /static/news/images/person.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:35:35] "[37mGET /static/news/images/news_pic.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:35:35] "[37mGET /static/news/images/person01.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:35:35] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:35:35] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:35:38] "[37mGET /static/news/images/shutoff.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:35:38] "[37mGET /passport/image_code?cur_id=5d1fb3d5-f537-42a4-bea1-1478d622d65f&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:35:53] "[37mGET /passport/image_code?cur_id=9b4253eb-0f3e-4b42-899e-18326dede24a&pre_id=5d1fb3d5-f537-42a4-bea1-1478d622d65f HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:36:01] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:36:04] "[37mGET /passport/image_code?cur_id=c109ef13-8b4b-4bf0-b991-14298299d31b&pre_id=9b4253eb-0f3e-4b42-899e-18326dede24a HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:36:09] "[37mGET /passport/image_code?cur_id=fa3abec2-186b-422b-b323-0a4c2ffa3c50&pre_id=c109ef13-8b4b-4bf0-b991-14298299d31b HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:36:28] "[37mGET /passport/image_code?cur_id=96d7859a-91e2-45b3-84e7-1fb7fc2aa0dc&pre_id=fa3abec2-186b-422b-b323-0a4c2ffa3c50 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:36:36] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:36:37] "[37mGET /passport/image_code?cur_id=e5738522-3524-44fb-be76-de42c307208e&pre_id=96d7859a-91e2-45b3-84e7-1fb7fc2aa0dc HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:37:15] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:37:16] "[37mGET /passport/image_code?cur_id=fe12ab89-cbd6-4010-94b2-dec240be58dd&pre_id=e5738522-3524-44fb-be76-de42c307208e HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\config.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\config.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:43:44] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:43:44] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:43:51] "[37mGET /passport/image_code?cur_id=993e8969-e263-4b2a-9191-4e28957af4dc&pre_id= HTTP/1.1[0m" 200 -
+DEBUG views.py:72 ¶ÌÐÅÑéÖ¤Âë = 715982
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:44:06] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\modules\\passport\\views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:49:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:49:43] "[37mGET /passport/image_code?cur_id=f318c440-b49e-4596-8d6f-3e02463cb526&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:49:43] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:49:48] "[37mGET /passport/image_code?cur_id=d3ff739c-0eef-4137-bdf0-ec328f65ae8e&pre_id=f318c440-b49e-4596-8d6f-3e02463cb526 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:49:52] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:49:54] "[37mGET /passport/image_code?cur_id=2cce3077-3c9f-42de-b291-6f9f8c766351&pre_id=d3ff739c-0eef-4137-bdf0-ec328f65ae8e HTTP/1.1[0m" 200 -
+DEBUG views.py:73 ¶ÌÐÅÑéÖ¤Âë = 561600
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:50:03] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:51:23] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:51:25] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:51:25] "[37mGET /passport/image_code?cur_id=622ff61d-fdd6-4388-ae53-aaf373ffdf92&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:51:30] "[37mGET /passport/image_code?cur_id=3af3f6d3-be2c-41ee-a870-b6fa1c2b3727&pre_id=622ff61d-fdd6-4388-ae53-aaf373ffdf92 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:51:32] "[37mGET /passport/image_code?cur_id=f6938704-3771-4930-9853-e5b7c37f9ae7&pre_id=3af3f6d3-be2c-41ee-a870-b6fa1c2b3727 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:51:37] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:51:38] "[37mGET /passport/image_code?cur_id=3646edcc-b23a-40c7-8ce9-7ceb068d280f&pre_id=f6938704-3771-4930-9853-e5b7c37f9ae7 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:51:41] "[37mGET /passport/image_code?cur_id=0aae74c3-eca1-498a-b6b1-757ab510a5ed&pre_id=3646edcc-b23a-40c7-8ce9-7ceb068d280f HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:51:44] "[37mGET /passport/image_code?cur_id=378da92c-9d9a-4a87-b124-015c218af053&pre_id=0aae74c3-eca1-498a-b6b1-757ab510a5ed HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:51:46] "[37mGET /passport/image_code?cur_id=56ea888e-806d-4571-bf8f-6f8886f011aa&pre_id=378da92c-9d9a-4a87-b124-015c218af053 HTTP/1.1[0m" 200 -
+DEBUG views.py:73 ¶ÌÐÅÑéÖ¤Âë = 758732
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:51:51] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\modules\\passport\\views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:55:57] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:55:59] "[37mGET /passport/image_code?cur_id=3763d301-d1b8-4e30-ac9d-cba991226cb3&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:55:59] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:56:04] "[37mGET /passport/image_code?cur_id=07cd0068-711e-4786-8e96-3498118f6841&pre_id=3763d301-d1b8-4e30-ac9d-cba991226cb3 HTTP/1.1[0m" 200 -
+DEBUG views.py:73 ¶ÌÐÅÑéÖ¤Âë = 707028
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:56:09] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:57:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:57:05] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:57:05] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:57:06] "[37mGET /passport/image_code?cur_id=8548c3d0-6fd9-4e42-b572-2fcf0277cfa6&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:57:13] "[37mGET /passport/image_code?cur_id=4cadab2c-c8a7-43a9-a4ae-9ff9f63f058d&pre_id=8548c3d0-6fd9-4e42-b572-2fcf0277cfa6 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:57:14] "[37mGET /passport/image_code?cur_id=59a79749-8f1a-4e4c-b438-d374b54a5600&pre_id=4cadab2c-c8a7-43a9-a4ae-9ff9f63f058d HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:57:51] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:57:55] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:57:56] "[37mGET /passport/image_code?cur_id=eac5c46d-8743-46f2-a066-fffd9ae95b93&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:58:07] "[37mGET /passport/image_code?cur_id=bb9be3de-75ba-4bb0-92da-2074a1f36525&pre_id=eac5c46d-8743-46f2-a066-fffd9ae95b93 HTTP/1.1[0m" 200 -
+DEBUG views.py:73 ¶ÌÐÅÑéÖ¤Âë = 767360
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:58:13] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\modules\\passport\\views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:59:45] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:59:45] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 09:59:45] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:00:15] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:00:15] "[37mGET /static/news/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:00:15] "[37mGET /static/news/css/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:00:15] "[37mGET /static/news/js/jquery-1.12.4.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:00:15] "[37mGET /static/news/js/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:00:15] "[37mGET /static/news/js/main.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:00:16] "[37mGET /static/news/images/logo.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:00:16] "[37mGET /static/news/images/person01.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:00:16] "[37mGET /static/news/images/news_pic.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:00:16] "[37mGET /static/news/images/person.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:00:16] "[37mGET /static/news/images/clock.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:00:16] "[37mGET /static/news/images/hit_icon.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:00:16] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:00:16] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:00:26] "[37mGET /static/news/images/shutoff.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:00:26] "[37mGET /passport/image_code?cur_id=795d2ffb-1c80-4350-9e9b-0a1a19dd015f&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:00:33] "[37mGET /passport/image_code?cur_id=d8aa2a26-55b4-4b7e-8327-c733913beeea&pre_id=795d2ffb-1c80-4350-9e9b-0a1a19dd015f HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:00:34] "[37mGET /passport/image_code?cur_id=30334788-fc4e-4e45-a7fa-9f8392ad8388&pre_id=d8aa2a26-55b4-4b7e-8327-c733913beeea HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:00:35] "[37mGET /passport/image_code?cur_id=9930f9b3-afb0-4e06-b4e2-8ada3bfec6cc&pre_id=30334788-fc4e-4e45-a7fa-9f8392ad8388 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:00:36] "[37mGET /passport/image_code?cur_id=ed911fc2-59ea-4ac1-8c58-dc593f3630bd&pre_id=9930f9b3-afb0-4e06-b4e2-8ada3bfec6cc HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:00:43] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:00:45] "[37mGET /passport/image_code?cur_id=9a0504c8-94a8-465d-ab16-f5539959baee&pre_id=ed911fc2-59ea-4ac1-8c58-dc593f3630bd HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:00:49] "[37mGET /passport/image_code?cur_id=e0fd9381-16e1-45da-a5e4-0c481e8a9c4f&pre_id=9a0504c8-94a8-465d-ab16-f5539959baee HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:00:49] "[37mGET /passport/image_code?cur_id=0dbfdf1b-dbcd-4e12-8f89-1c45299c4e68&pre_id=e0fd9381-16e1-45da-a5e4-0c481e8a9c4f HTTP/1.1[0m" 200 -
+DEBUG views.py:73 ¶ÌÐÅÑéÖ¤Âë = 940201
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:00:54] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:04:55] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:04:55] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:04:56] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:04:59] "[37mGET /passport/image_code?cur_id=8cdbb4d8-9baf-4231-9a26-c51cfbb43b11&pre_id= HTTP/1.1[0m" 200 -
+DEBUG views.py:73 ¶ÌÐÅÑéÖ¤Âë = 469553
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:05:14] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\modules\\passport\\views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:05:41] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:05:42] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:05:43] "[37mGET /passport/image_code?cur_id=e0f158d8-f4d5-4a19-9b8f-7f231c9839f0&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:05:49] "[37mGET /passport/image_code?cur_id=385d5c1d-821d-4e82-95bb-8df6a221e951&pre_id=e0f158d8-f4d5-4a19-9b8f-7f231c9839f0 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:05:53] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:05:54] "[37mGET /passport/image_code?cur_id=ba3b24e6-bb64-42f4-9a02-cf5608adbf18&pre_id=385d5c1d-821d-4e82-95bb-8df6a221e951 HTTP/1.1[0m" 200 -
+DEBUG views.py:73 ¶ÌÐÅÑéÖ¤Âë = 982586
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:06:01] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:07:43] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:07:45] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:07:46] "[37mGET /passport/image_code?cur_id=dab5443c-0230-46a6-8c17-6a385d2ee755&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:08:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:08:05] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:08:06] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:08:11] "[37mGET /passport/image_code?cur_id=9c08dc23-88c2-4fdf-a442-5e85fa125c0a&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:08:33] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:08:33] "[37mGET /static/news/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:08:33] "[37mGET /static/news/js/jquery-1.12.4.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:08:33] "[37mGET /static/news/css/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:08:33] "[37mGET /static/news/js/main.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:08:33] "[37mGET /static/news/js/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:08:33] "[37mGET /static/news/images/logo.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:08:33] "[37mGET /static/news/images/person01.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:08:33] "[37mGET /static/news/images/news_pic.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:08:33] "[37mGET /static/news/images/person.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:08:33] "[37mGET /static/news/images/clock.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:08:34] "[37mGET /static/news/images/hit_icon.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:08:34] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:08:34] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:10:11] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:10:14] "[37mGET /passport/image_code?cur_id=3e3d5538-5f2a-448c-bc95-3331c197dab7&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:10:14] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:10:14] "[37mGET /static/news/images/shutoff.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:10:18] "[37mGET /passport/image_code?cur_id=2baff9f7-37c9-47ea-811c-ea9bdb2c9178&pre_id=3e3d5538-5f2a-448c-bc95-3331c197dab7 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:10:19] "[37mGET /passport/image_code?cur_id=b57f7f63-00c9-45ce-9a63-2fcb8c670e78&pre_id=2baff9f7-37c9-47ea-811c-ea9bdb2c9178 HTTP/1.1[0m" 200 -
+DEBUG views.py:73 ¶ÌÐÅÑéÖ¤Âë = 097395
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:10:25] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:10:32] "[37mPOST /passport/register HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\modules\\passport\\views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:15:43] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:15:43] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:15:46] "[37mGET /passport/image_code?cur_id=6bc34d78-d3d7-468f-b451-3cd67c79cc39&pre_id= HTTP/1.1[0m" 200 -
+DEBUG views.py:73 ¶ÌÐÅÑéÖ¤Âë = 023834
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:15:57] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:16:05] "[37mPOST /passport/register HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\modules\\passport\\views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:16:45] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:16:45] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:16:49] "[37mGET /passport/image_code?cur_id=1a59ef8b-a296-4623-9b3a-9d48a923a5bc&pre_id= HTTP/1.1[0m" 200 -
+DEBUG views.py:73 ¶ÌÐÅÑéÖ¤Âë = 527566
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:16:58] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:17:06] "[37mPOST /passport/register HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:18:35] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:18:36] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:18:36] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:18:36] "[37mGET /passport/image_code?cur_id=13a26040-40b4-4d8e-a15a-c279ac8d1639&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:18:52] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:18:53] "[37mGET /static/news/css/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:18:53] "[37mGET /static/news/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:18:53] "[37mGET /static/news/js/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:18:53] "[37mGET /static/news/js/main.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:18:53] "[37mGET /static/news/js/jquery-1.12.4.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:18:53] "[37mGET /static/news/images/logo.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:18:53] "[37mGET /static/news/images/person01.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:18:53] "[37mGET /static/news/images/news_pic.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:18:53] "[37mGET /static/news/images/person.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:18:53] "[37mGET /static/news/images/clock.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:18:53] "[37mGET /static/news/images/hit_icon.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:18:53] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:18:55] "[37mGET /passport/image_code?cur_id=ad53f94b-b3b9-4359-9f6a-88c69d50146f&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:18:55] "[37mGET /static/news/images/shutoff.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:19:04] "[37mGET /passport/image_code?cur_id=f582025a-15de-4686-9c94-5d832536b13c&pre_id=ad53f94b-b3b9-4359-9f6a-88c69d50146f HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:19:05] "[37mGET /passport/image_code?cur_id=246fe597-e472-4674-8c79-3f6789f404a8&pre_id=f582025a-15de-4686-9c94-5d832536b13c HTTP/1.1[0m" 200 -
+DEBUG views.py:73 ¶ÌÐÅÑéÖ¤Âë = 439730
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:19:11] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:19:20] "[37mPOST /passport/register HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:19:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:19:26] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:37:18] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:37:27] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:37:37] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:37:37] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:37:37] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:37:57] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:37:57] "[37mGET /static/news/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:37:57] "[37mGET /static/news/css/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:37:57] "[37mGET /static/news/js/main.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:37:57] "[37mGET /static/news/js/jquery-1.12.4.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:37:57] "[37mGET /static/news/js/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:37:57] "[37mGET /static/news/images/logo.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:37:58] "[37mGET /static/news/images/person01.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:37:58] "[37mGET /static/news/images/news_pic.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:37:58] "[37mGET /static/news/images/person.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:37:58] "[37mGET /static/news/images/clock.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:37:58] "[37mGET /static/news/images/hit_icon.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:37:58] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:37:58] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:38:09] "[37mGET /static/news/images/shutoff.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:38:35] "[37mPOST /passport/login HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\modules\\passport\\views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:39:27] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:39:27] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:39:27] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:39:38] "[37mPOST /passport/login HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:39:44] "[37mPOST /passport/login HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:39:50] "[37mGET /passport/image_code?cur_id=a5d87dbc-bc97-467e-9831-9b778d27f655&pre_id= HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:40:07] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:40:07] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:40:07] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:40:11] "[37mGET /passport/image_code?cur_id=1c810362-dcf7-4aff-bc51-83f6265000f3&pre_id= HTTP/1.1[0m" 200 -
+DEBUG views.py:74 ¶ÌÐÅÑéÖ¤Âë = 248255
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:40:21] "[37mPOST /passport/sms_code HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:40:30] "[37mPOST /passport/register HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:40:38] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:40:38] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:40:51] "[37mPOST /passport/login HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:41:10] "[37mPOST /passport/login HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\modules\\passport\\views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:41:39] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:41:39] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:41:51] "[37mPOST /passport/login HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\modules\\passport\\views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:43:27] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:43:27] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\modules\\passport\\views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:43:37] "[35m[1mPOST /passport/login HTTP/1.1[0m" 500 -
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\modules\\passport\\views.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:44:02] "[37mPOST /passport/login HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:48:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:48:27] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+DEBUG views.py:254 µÇÂ¼³É¹¦
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:48:37] "[37mPOST /passport/login HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:48:42] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [20/Jun/2020 10:48:42] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -

@@ -9,8 +9,7 @@ class Config(object):
     DEBUG = True
     # 导入数据库配置
     SQLALCHEMY_DATABASE_URI = 'mysql://root:root@127.0.0.1:3306/information22'
-    SQLALCHEMY_TRACK_MODUFICATIONS = True
-    SQLALCHEMY_ECHO = True
+    SQLALCHEMY_TRACK_MODUFICATIONS = False
 
     REDIS_HOST = '127.0.0.1'
     REDIS_PORT = 6379
