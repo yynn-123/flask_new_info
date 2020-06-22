@@ -253,3 +253,14 @@ def login():
     # 7. 返回响应
     current_app.logger.debug('登录成功')
     return jsonify(errno=RET.OK, errmsg="登录成功")
+
+
+# 退出
+@passport_blu.route('/logout', methods=['POST'])
+def logout():
+    """清除session"""
+    session.pop("user_id",None)
+    session.pop("mobile",None)
+    session.pop("nick_name",None)
+    return jsonify(errno = RET.OK,errmsg = 'OK')
+
