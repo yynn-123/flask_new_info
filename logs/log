@@ -1709,3 +1709,147 @@ INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 18:45:37] "[37mGET / HTTP/1.1
 INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 18:45:38] "[37mGET /static/news/images/person01.png HTTP/1.1[0m" 200 -
 INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 18:45:38] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
 INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 18:45:38] "[37mGET /newslist?page=1&per_page=10&cid=1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'C:\\Users\\yynnn\\Documents\\GitHub\\flask_new_info\\info\\__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:13:45] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:13:45] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:13:46] "[37mGET /newslist?page=1&per_page=10&cid=1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:16:07] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:16:08] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:16:08] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:16:08] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:16:09] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:16:09] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:16:10] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:16:14] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:16:21] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:16:35] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:16:35] "[37mGET /newslist?page=1&per_page=10&cid=1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:16:36] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:16:36] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:16:45] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:16:45] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:16:45] "[37mGET /newslist?page=1&per_page=10&cid=1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:16:45] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:17:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:17:05] "[37mGET /static/news/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:17:05] "[37mGET /static/news/css/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:17:05] "[37mGET /static/news/js/jquery-1.12.4.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:17:05] "[37mGET /static/news/js/main.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:17:05] "[37mGET /static/news/js/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:17:05] "[37mGET /static/news/images/logo.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:17:05] "[37mGET /static/news/images/hit_icon.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:17:05] "[37mGET /newslist?page=1&per_page=10&cid=1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:17:05] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:17:05] "[37mGET /static/news/images/clock.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:17:07] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:17:15] "[37mGET /news/149 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:17:15] "[33mGET /js/main.js HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:17:15] "[33mGET /js/detail.js HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:17:15] "[33mGET /js/jquery-1.12.4.min.js HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:17:15] "[33mGET /css/main.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:17:15] "[33mGET /css/reset.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:17:15] "[33mGET /images/logo.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:17:15] "[33mGET /images/person01.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:17:15] "[33mGET /js/detail.js HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:17:15] "[33mGET /images/cat.jpg HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:17:15] "[33mGET /images/worm.jpg HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:17:15] "[33mGET /js/main.js HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:17:15] "[33mGET /images/user_pic.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:17:15] "[33mGET /images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:17:15] "[33mGET /images/worm.jpg HTTP/1.1[0m" 404 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:29:06] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:29:06] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:29:06] "[37mGET /newslist?page=1&per_page=10&cid=1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:29:16] "[35m[1mGET /news/149 HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:29:16] "[37mGET /news/149?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:29:16] "[37mGET /news/149?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:29:16] "[37mGET /news/149?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:29:16] "[37mGET /news/149?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:29:16] "[37mGET /news/149?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:29:16] "[37mGET /news/149?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:29:38] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:29:38] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:29:38] "[37mGET /newslist?page=1&per_page=10&cid=1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:29:41] "[37mGET /newslist?page=1&per_page=10&cid=2 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:29:42] "[37mGET /newslist?page=1&per_page=10&cid=3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:29:43] "[37mGET /newslist?page=1&per_page=10&cid=1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:29:48] "[35m[1mGET /news/149 HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:29:48] "[37mGET /news/149?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:29:48] "[37mGET /news/149?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:29:48] "[37mGET /news/149?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:29:48] "[37mGET /news/149?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:29:48] "[37mGET /news/149?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:33:18] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:33:18] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:33:18] "[37mGET /newslist?page=1&per_page=10&cid=1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:34:08] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:34:08] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:34:08] "[37mGET /newslist?page=1&per_page=10&cid=1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:34:08] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:34:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:34:27] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:34:27] "[37mGET /newslist?page=1&per_page=10&cid=1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:34:27] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 168-346-213
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:35:33] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:35:34] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:35:34] "[37mGET /newslist?page=1&per_page=10&cid=1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:35:43] "[35m[1mGET /news/149 HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:35:43] "[37mGET /news/149?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:35:43] "[37mGET /news/149?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:35:43] "[37mGET /news/149?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:35:43] "[37mGET /news/149?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:35:43] "[37mGET /news/149?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:36:53] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:36:53] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:36:53] "[37mGET /newslist?page=1&per_page=10&cid=1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:36:53] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:37:03] "[37mGET /news/149 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:37:03] "[33mGET /images/cat.jpg HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:37:03] "[33mGET /images/worm.jpg HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:37:03] "[37mGET /static/news/images/comment_icon.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:37:03] "[37mGET /static/news/images/collect_icons.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:37:03] "[33mGET /images/user_pic.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:37:03] "[33mGET /static/news/images/pic_code.png HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:37:03] "[37mGET /static/news/images/zan_icon.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:37:03] "[37mGET /static/news/images/reply_icon.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:37:03] "[37mGET /static/news/images/focus_icons.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:37:03] "[37mGET /newslist?page=1&per_page=10&cid=1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:37:07] "[37mGET /newslist?page=2&per_page=10&cid=1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:37:07] "[37mGET /newslist?page=3&per_page=10&cid=1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:37:07] "[37mGET /newslist?page=4&per_page=10&cid=1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:37:07] "[37mGET /newslist?page=5&per_page=10&cid=1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:37:07] "[37mGET /newslist?page=6&per_page=10&cid=1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:37:07] "[37mGET /newslist?page=7&per_page=10&cid=1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:37:07] "[37mGET /newslist?page=8&per_page=10&cid=1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:37:07] "[37mGET /newslist?page=9&per_page=10&cid=1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [23/Jun/2020 19:37:07] "[37mGET /newslist?page=10&per_page=10&cid=1 HTTP/1.1[0m" 200 -

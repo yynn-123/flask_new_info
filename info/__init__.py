@@ -45,9 +45,13 @@ def creat_app(config_name):
     from info.utils.common import do_index_class
     app.add_template_filter(do_index_class, 'index_class')
 
+    from info.modules.news import news_blu
+    app.register_blueprint(news_blu)
+
+
     @app.after_request
     def after_request(response):
-        # 生成crsf函数
+        # 生成csrf函数
         csrf_token = generate_csrf()
         # 通过cookie传递给前台
         response.set_cookie('csrf_token', csrf_token)
