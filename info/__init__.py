@@ -3,19 +3,20 @@ import logging
 from logging.handlers import RotatingFileHandler
 
 import redis
-from flask import Flask, session,config
+from flask import Flask, session, config
 from flask_session import Session
 from flask_sqlalchemy import SQLAlchemy
 from flask_wtf import CSRFProtect
-from config import Config,config_dict
+from flask_wtf.csrf import generate_csrf
+
+from config import Config, config_dict
 
 db = SQLAlchemy()
-#定义全局变量
+# 定义全局变量
 redis_store = None
 
 
 def creat_app(config_name):
-
     # 通过传入不同的配置，初始化对应配置的实例
     config = config_dict.get(config_name)
 
@@ -27,10 +28,10 @@ def creat_app(config_name):
     db.init_app(app)
     # 初始化redis
     global redis_store
-    redis_store = redis.StrictRedis(host=config.REDIS_HOST,port=config.REDIS_PORT,decode_responses=True)
+    redis_store = redis.StrictRedis(host=config.REDIS_HOST, port=config.REDIS_PORT, decode_responses=True)
 
     # 开启csrf保护，用于服务器验证
-    # CSRFProtect(app)
+    CSRFProtect(app)
     # 设置session保存指定位置
     Session(app)
 
@@ -42,9 +43,20 @@ def creat_app(config_name):
     app.register_blueprint(passport_blu)
 
     from info.utils.common import do_index_class
-    app.add_template_filter(do_index_class,'index_class')
+    app.add_template_filter(do_index_class, 'index_class')
+
+    @app.after_request
+    def after_request(response):
+        # 生成crsf函数
+        csrf_token = generate_csrf()
+        # 通过cookie传递给前台
+        response.set_cookie('csrf_token', csrf_token)
+        return response
+
     return app
-#记录日志信息方法
+
+
+# 记录日志信息方法
 def log_file(level):
     # 设置日志的记录等级,常见等级有: DEBUG<INFO<WARING<ERROR
     logging.basicConfig(level=level)  # 调试debug级

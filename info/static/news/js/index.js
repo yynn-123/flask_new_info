@@ -62,7 +62,7 @@ function updateNewsData() {
     // TODO 更新新闻数据
     var params = {
         "page": cur_page,
-        "per_page": 5,
+        "per_page": 10,
         "cid": currentCid
     }
     $.get("/newslist", params, function (resp) {
